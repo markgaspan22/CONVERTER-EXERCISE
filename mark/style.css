@@ -1,0 +1,40 @@
+#d {
+	padding: 20px 25px;
+}
+#txt {
+	color: white;
+	position: relative;
+	bottom: 13px;
+	left: 15px;
+}
+#txt1 {
+	color: white;
+	position: relative;
+	bottom: 13px;
+	left: 15px;
+}
+#txt2 {
+	color: white;
+	position: relative;
+	bottom: 13px;
+	left: 15px;
+}
+#text {
+	color: white;
+	position: relative;
+	left: 10px;
+}
+#button {
+	padding: 20px 25px;
+	cursor: pointer;
+	margin-left: 25px;
+}
+textarea {
+	text-align: center;
+	padding: 10px 20px;
+	font-weight: bold;
+}
+input {
+	text-align: center;
+	font-weight: bold;
+}
